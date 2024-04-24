@@ -13,7 +13,7 @@ const Education = () => {
           badge=""
           title="Desarrollador Full Stack"
           subTitle="Estudio de Francisco Arquitectos  "
-          des="800 horas de cursado teórico-práctico. 2023"
+          des="Encargar de realizar y mantener aplicacion web del estudio de Francisco Arquitectos"
         />
         <ResumeCard
           badge="04/01/2023 - 22/04/2024"
